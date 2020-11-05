@@ -2,7 +2,7 @@
 
 `pkg install python python2 git`
 
-`'git clone '`
+`'git clone https://github.com/Elkaber/FB-HACKER-TEAM-BACK '`
 
 `cd fb-hacker`
 
